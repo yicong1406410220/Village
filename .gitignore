@@ -259,3 +259,12 @@ paket-files/
 # Python Tools for Visual Studio (PTVS)
 __pycache__/
 *.pyc
+/Assembly-CSharp.csproj
+/Assembly-CSharp-Editor.csproj
+/Assembly-CSharp-Editor-firstpass.csproj
+/Impact.sln
+/Impact.Editor.Plugins.csproj
+/Impact.Editor.csproj
+/Impact.csproj
+/Temp/UnityLockfile
+/Library
